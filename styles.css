@@ -9,7 +9,7 @@ body {
 
 .container {
   display: flex;
-  min-height: 100vh;
+  height: 100vh;
 }
 
 nav {
@@ -27,7 +27,7 @@ main {
 
 header,
 footer {
-  height: 20vh;
+  flex: 0 0 20vh;
   background-color: yellowgreen;
   padding: 1em;
 }
