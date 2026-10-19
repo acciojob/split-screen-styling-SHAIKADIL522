@@ -28,6 +28,7 @@ main {
 header,
 footer {
   flex: 0 0 20vh;
+  height: 20vh;
   background-color: yellowgreen;
   padding: 1em;
 }
